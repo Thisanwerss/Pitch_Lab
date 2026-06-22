@@ -1,0 +1,477 @@
+{
+  "generated_at": "2026-06-21T20:12:54.362Z",
+  "direct_count": 50,
+  "youtube_count": 3,
+  "direct": [
+    {
+      "label": "DynaRetarget",
+      "source_repo": "Atarilab/dynaretarget.io",
+      "branch": "main",
+      "source_path": "static/images/steve.webm",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/dynaretarget.io/main/static/images/steve.webm",
+      "local_path": "public/videos/dynaretarget/static/images/steve.webm",
+      "skipped": true
+    },
+    {
+      "label": "DynaRetarget",
+      "source_repo": "Atarilab/dynaretarget.io",
+      "branch": "main",
+      "source_path": "static/videos/video_submission/analysis/missing_cut.webm",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/dynaretarget.io/main/static/videos/video_submission/analysis/missing_cut.webm",
+      "local_path": "public/videos/dynaretarget/video_submission/analysis/missing_cut.webm",
+      "skipped": true
+    },
+    {
+      "label": "DynaRetarget",
+      "source_repo": "Atarilab/dynaretarget.io",
+      "branch": "main",
+      "source_path": "static/videos/video_submission/analysis/refined_cut.webm",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/dynaretarget.io/main/static/videos/video_submission/analysis/refined_cut.webm",
+      "local_path": "public/videos/dynaretarget/video_submission/analysis/refined_cut.webm",
+      "skipped": true
+    },
+    {
+      "label": "DynaRetarget",
+      "source_repo": "Atarilab/dynaretarget.io",
+      "branch": "main",
+      "source_path": "static/videos/video_submission/augmentation/sub10_largebox_084_original_chair.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/dynaretarget.io/main/static/videos/video_submission/augmentation/sub10_largebox_084_original_chair.mp4",
+      "local_path": "public/videos/dynaretarget/video_submission/augmentation/sub10_largebox_084_original_chair.mp4",
+      "skipped": true
+    },
+    {
+      "label": "DynaRetarget",
+      "source_repo": "Atarilab/dynaretarget.io",
+      "branch": "main",
+      "source_path": "static/videos/video_submission/augmentation/sub10_largebox_084_original_cylinder.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/dynaretarget.io/main/static/videos/video_submission/augmentation/sub10_largebox_084_original_cylinder.mp4",
+      "local_path": "public/videos/dynaretarget/video_submission/augmentation/sub10_largebox_084_original_cylinder.mp4",
+      "skipped": true
+    },
+    {
+      "label": "DynaRetarget",
+      "source_repo": "Atarilab/dynaretarget.io",
+      "branch": "main",
+      "source_path": "static/videos/video_submission/augmentation/sub10_largebox_084_original_shelf.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/dynaretarget.io/main/static/videos/video_submission/augmentation/sub10_largebox_084_original_shelf.mp4",
+      "local_path": "public/videos/dynaretarget/video_submission/augmentation/sub10_largebox_084_original_shelf.mp4",
+      "skipped": true
+    },
+    {
+      "label": "DynaRetarget",
+      "source_repo": "Atarilab/dynaretarget.io",
+      "branch": "main",
+      "source_path": "static/videos/video_submission/many_motions/OmniRetarget_sub10_largebox_085_original_submission.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/dynaretarget.io/main/static/videos/video_submission/many_motions/OmniRetarget_sub10_largebox_085_original_submission.mp4",
+      "local_path": "public/videos/dynaretarget/video_submission/many_motions/OmniRetarget_sub10_largebox_085_original_submission.mp4",
+      "skipped": true
+    },
+    {
+      "label": "DynaRetarget",
+      "source_repo": "Atarilab/dynaretarget.io",
+      "branch": "main",
+      "source_path": "static/videos/video_submission/many_motions/OmniRetarget_sub10_largebox_086_original_submission.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/dynaretarget.io/main/static/videos/video_submission/many_motions/OmniRetarget_sub10_largebox_086_original_submission.mp4",
+      "local_path": "public/videos/dynaretarget/video_submission/many_motions/OmniRetarget_sub10_largebox_086_original_submission.mp4",
+      "skipped": true
+    },
+    {
+      "label": "DynaRetarget",
+      "source_repo": "Atarilab/dynaretarget.io",
+      "branch": "main",
+      "source_path": "static/videos/video_submission/many_motions/OmniRetarget_sub10_largebox_087_original_submission.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/dynaretarget.io/main/static/videos/video_submission/many_motions/OmniRetarget_sub10_largebox_087_original_submission.mp4",
+      "local_path": "public/videos/dynaretarget/video_submission/many_motions/OmniRetarget_sub10_largebox_087_original_submission.mp4",
+      "skipped": true
+    },
+    {
+      "label": "DynaRetarget",
+      "source_repo": "Atarilab/dynaretarget.io",
+      "branch": "main",
+      "source_path": "static/videos/video_submission/many_motions/OmniRetarget_sub10_largebox_088_original_submission.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/dynaretarget.io/main/static/videos/video_submission/many_motions/OmniRetarget_sub10_largebox_088_original_submission.mp4",
+      "local_path": "public/videos/dynaretarget/video_submission/many_motions/OmniRetarget_sub10_largebox_088_original_submission.mp4",
+      "skipped": true
+    },
+    {
+      "label": "DynaRetarget",
+      "source_repo": "Atarilab/dynaretarget.io",
+      "branch": "main",
+      "source_path": "static/videos/video_submission/many_motions/OmniRetarget_sub16_largebox_001_original_submission.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/dynaretarget.io/main/static/videos/video_submission/many_motions/OmniRetarget_sub16_largebox_001_original_submission.mp4",
+      "local_path": "public/videos/dynaretarget/video_submission/many_motions/OmniRetarget_sub16_largebox_001_original_submission.mp4",
+      "skipped": true
+    },
+    {
+      "label": "DynaRetarget",
+      "source_repo": "Atarilab/dynaretarget.io",
+      "branch": "main",
+      "source_path": "static/videos/video_submission/many_motions/OmniRetarget_sub16_largebox_004_original_submission.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/dynaretarget.io/main/static/videos/video_submission/many_motions/OmniRetarget_sub16_largebox_004_original_submission.mp4",
+      "local_path": "public/videos/dynaretarget/video_submission/many_motions/OmniRetarget_sub16_largebox_004_original_submission.mp4",
+      "skipped": true
+    },
+    {
+      "label": "DynaRetarget",
+      "source_repo": "Atarilab/dynaretarget.io",
+      "branch": "main",
+      "source_path": "static/videos/video_submission/many_motions/OmniRetarget_sub16_largebox_005_original_submission.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/dynaretarget.io/main/static/videos/video_submission/many_motions/OmniRetarget_sub16_largebox_005_original_submission.mp4",
+      "local_path": "public/videos/dynaretarget/video_submission/many_motions/OmniRetarget_sub16_largebox_005_original_submission.mp4",
+      "skipped": true
+    },
+    {
+      "label": "DynaRetarget",
+      "source_repo": "Atarilab/dynaretarget.io",
+      "branch": "main",
+      "source_path": "static/videos/video_submission/many_motions/OmniRetarget_sub16_largebox_010_original_submission.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/dynaretarget.io/main/static/videos/video_submission/many_motions/OmniRetarget_sub16_largebox_010_original_submission.mp4",
+      "local_path": "public/videos/dynaretarget/video_submission/many_motions/OmniRetarget_sub16_largebox_010_original_submission.mp4",
+      "skipped": true
+    },
+    {
+      "label": "DynaRetarget",
+      "source_repo": "Atarilab/dynaretarget.io",
+      "branch": "main",
+      "source_path": "static/videos/video_submission/many_motions/OmniRetarget_sub16_largebox_050_original_submission.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/dynaretarget.io/main/static/videos/video_submission/many_motions/OmniRetarget_sub16_largebox_050_original_submission.mp4",
+      "local_path": "public/videos/dynaretarget/video_submission/many_motions/OmniRetarget_sub16_largebox_050_original_submission.mp4",
+      "skipped": true
+    },
+    {
+      "label": "DynaRetarget",
+      "source_repo": "Atarilab/dynaretarget.io",
+      "branch": "main",
+      "source_path": "static/videos/video_submission/many_motions/OmniRetarget_sub3_largebox_001_original_submission.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/dynaretarget.io/main/static/videos/video_submission/many_motions/OmniRetarget_sub3_largebox_001_original_submission.mp4",
+      "local_path": "public/videos/dynaretarget/video_submission/many_motions/OmniRetarget_sub3_largebox_001_original_submission.mp4",
+      "skipped": true
+    },
+    {
+      "label": "DynaRetarget",
+      "source_repo": "Atarilab/dynaretarget.io",
+      "branch": "main",
+      "source_path": "static/videos/video_submission/many_motions/OmniRetarget_sub3_largebox_005_original_submission.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/dynaretarget.io/main/static/videos/video_submission/many_motions/OmniRetarget_sub3_largebox_005_original_submission.mp4",
+      "local_path": "public/videos/dynaretarget/video_submission/many_motions/OmniRetarget_sub3_largebox_005_original_submission.mp4",
+      "skipped": true
+    },
+    {
+      "label": "DynaRetarget",
+      "source_repo": "Atarilab/dynaretarget.io",
+      "branch": "main",
+      "source_path": "static/videos/video_submission/many_motions/OmniRetarget_sub7_largebox_001_original_submission.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/dynaretarget.io/main/static/videos/video_submission/many_motions/OmniRetarget_sub7_largebox_001_original_submission.mp4",
+      "local_path": "public/videos/dynaretarget/video_submission/many_motions/OmniRetarget_sub7_largebox_001_original_submission.mp4",
+      "skipped": true
+    },
+    {
+      "label": "DynaRetarget",
+      "source_repo": "Atarilab/dynaretarget.io",
+      "branch": "main",
+      "source_path": "static/videos/video_submission/many_motions/OmniRetarget_sub8_largebox_031_original_submission.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/dynaretarget.io/main/static/videos/video_submission/many_motions/OmniRetarget_sub8_largebox_031_original_submission.mp4",
+      "local_path": "public/videos/dynaretarget/video_submission/many_motions/OmniRetarget_sub8_largebox_031_original_submission.mp4",
+      "skipped": true
+    },
+    {
+      "label": "DynaRetarget",
+      "source_repo": "Atarilab/dynaretarget.io",
+      "branch": "main",
+      "source_path": "static/videos/video_submission/many_motions/OmniRetarget_sub8_largebox_032_original_submission.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/dynaretarget.io/main/static/videos/video_submission/many_motions/OmniRetarget_sub8_largebox_032_original_submission.mp4",
+      "local_path": "public/videos/dynaretarget/video_submission/many_motions/OmniRetarget_sub8_largebox_032_original_submission.mp4",
+      "skipped": true
+    },
+    {
+      "label": "DynaRetarget",
+      "source_repo": "Atarilab/dynaretarget.io",
+      "branch": "main",
+      "source_path": "static/videos/video_submission/real_world_experiments/exp1.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/dynaretarget.io/main/static/videos/video_submission/real_world_experiments/exp1.mp4",
+      "local_path": "public/videos/dynaretarget/video_submission/real_world_experiments/exp1.mp4",
+      "skipped": true
+    },
+    {
+      "label": "DynaRetarget",
+      "source_repo": "Atarilab/dynaretarget.io",
+      "branch": "main",
+      "source_path": "static/videos/video_submission/real_world_experiments/exp2.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/dynaretarget.io/main/static/videos/video_submission/real_world_experiments/exp2.mp4",
+      "local_path": "public/videos/dynaretarget/video_submission/real_world_experiments/exp2.mp4",
+      "skipped": true
+    },
+    {
+      "label": "DynaRetarget",
+      "source_repo": "Atarilab/dynaretarget.io",
+      "branch": "main",
+      "source_path": "static/videos/video_submission/real_world_experiments/exp3.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/dynaretarget.io/main/static/videos/video_submission/real_world_experiments/exp3.mp4",
+      "local_path": "public/videos/dynaretarget/video_submission/real_world_experiments/exp3.mp4",
+      "skipped": true
+    },
+    {
+      "label": "DynaRetarget",
+      "source_repo": "Atarilab/dynaretarget.io",
+      "branch": "main",
+      "source_path": "static/videos/video_submission/real_world_experiments/exp4.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/dynaretarget.io/main/static/videos/video_submission/real_world_experiments/exp4.mp4",
+      "local_path": "public/videos/dynaretarget/video_submission/real_world_experiments/exp4.mp4",
+      "skipped": true
+    },
+    {
+      "label": "DynaRetarget",
+      "source_repo": "Atarilab/dynaretarget.io",
+      "branch": "main",
+      "source_path": "static/videos/video_submission/real_world_experiments/exp5.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/dynaretarget.io/main/static/videos/video_submission/real_world_experiments/exp5.mp4",
+      "local_path": "public/videos/dynaretarget/video_submission/real_world_experiments/exp5.mp4",
+      "skipped": true
+    },
+    {
+      "label": "DynaRetarget",
+      "source_repo": "Atarilab/dynaretarget.io",
+      "branch": "main",
+      "source_path": "static/videos/video_submission/real_world_experiments/exp6.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/dynaretarget.io/main/static/videos/video_submission/real_world_experiments/exp6.mp4",
+      "local_path": "public/videos/dynaretarget/video_submission/real_world_experiments/exp6.mp4",
+      "skipped": true
+    },
+    {
+      "label": "DynaRetarget",
+      "source_repo": "Atarilab/dynaretarget.io",
+      "branch": "main",
+      "source_path": "static/videos/video_submission/real_world_experiments/exp7.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/dynaretarget.io/main/static/videos/video_submission/real_world_experiments/exp7.mp4",
+      "local_path": "public/videos/dynaretarget/video_submission/real_world_experiments/exp7.mp4",
+      "skipped": true
+    },
+    {
+      "label": "DynaRetarget",
+      "source_repo": "Atarilab/dynaretarget.io",
+      "branch": "main",
+      "source_path": "static/videos/video_submission/real_world_experiments/exp8.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/dynaretarget.io/main/static/videos/video_submission/real_world_experiments/exp8.mp4",
+      "local_path": "public/videos/dynaretarget/video_submission/real_world_experiments/exp8.mp4",
+      "skipped": true
+    },
+    {
+      "label": "DynaRetarget",
+      "source_repo": "Atarilab/dynaretarget.io",
+      "branch": "main",
+      "source_path": "static/videos/video_submission/real_world_experiments/exp9.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/dynaretarget.io/main/static/videos/video_submission/real_world_experiments/exp9.mp4",
+      "local_path": "public/videos/dynaretarget/video_submission/real_world_experiments/exp9.mp4",
+      "skipped": true
+    },
+    {
+      "label": "MotionDisco",
+      "source_repo": "Atarilab/motiondisco.io",
+      "branch": "main",
+      "source_path": "static/videos/simulation/sim_06-02-2026_12_08_06.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/motiondisco.io/main/static/videos/simulation/sim_06-02-2026_12_08_06.mp4",
+      "local_path": "public/videos/motiondisco/simulation/sim_06-02-2026_12_08_06.mp4",
+      "skipped": true
+    },
+    {
+      "label": "MotionDisco",
+      "source_repo": "Atarilab/motiondisco.io",
+      "branch": "main",
+      "source_path": "static/videos/simulation/sim_06-02-2026_12_11_05.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/motiondisco.io/main/static/videos/simulation/sim_06-02-2026_12_11_05.mp4",
+      "local_path": "public/videos/motiondisco/simulation/sim_06-02-2026_12_11_05.mp4",
+      "skipped": true
+    },
+    {
+      "label": "MotionDisco",
+      "source_repo": "Atarilab/motiondisco.io",
+      "branch": "main",
+      "source_path": "static/videos/simulation/sim_06-02-2026_12_12_55.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/motiondisco.io/main/static/videos/simulation/sim_06-02-2026_12_12_55.mp4",
+      "local_path": "public/videos/motiondisco/simulation/sim_06-02-2026_12_12_55.mp4",
+      "skipped": true
+    },
+    {
+      "label": "MotionDisco",
+      "source_repo": "Atarilab/motiondisco.io",
+      "branch": "main",
+      "source_path": "static/videos/simulation/sim_06-02-2026_12_15_06.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/motiondisco.io/main/static/videos/simulation/sim_06-02-2026_12_15_06.mp4",
+      "local_path": "public/videos/motiondisco/simulation/sim_06-02-2026_12_15_06.mp4",
+      "skipped": true
+    },
+    {
+      "label": "MotionDisco",
+      "source_repo": "Atarilab/motiondisco.io",
+      "branch": "main",
+      "source_path": "static/videos/simulation/sim_06-02-2026_12_16_44.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/motiondisco.io/main/static/videos/simulation/sim_06-02-2026_12_16_44.mp4",
+      "local_path": "public/videos/motiondisco/simulation/sim_06-02-2026_12_16_44.mp4",
+      "skipped": true
+    },
+    {
+      "label": "MotionDisco",
+      "source_repo": "Atarilab/motiondisco.io",
+      "branch": "main",
+      "source_path": "static/videos/simulation/sim_06-02-2026_12_18_40.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/motiondisco.io/main/static/videos/simulation/sim_06-02-2026_12_18_40.mp4",
+      "local_path": "public/videos/motiondisco/simulation/sim_06-02-2026_12_18_40.mp4",
+      "skipped": true
+    },
+    {
+      "label": "MotionDisco",
+      "source_repo": "Atarilab/motiondisco.io",
+      "branch": "main",
+      "source_path": "static/videos/simulation/sim_06-02-2026_12_38_41.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/motiondisco.io/main/static/videos/simulation/sim_06-02-2026_12_38_41.mp4",
+      "local_path": "public/videos/motiondisco/simulation/sim_06-02-2026_12_38_41.mp4",
+      "skipped": true
+    },
+    {
+      "label": "MotionDisco",
+      "source_repo": "Atarilab/motiondisco.io",
+      "branch": "main",
+      "source_path": "static/videos/simulation/sim_06-03-2026_11_15_31.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/motiondisco.io/main/static/videos/simulation/sim_06-03-2026_11_15_31.mp4",
+      "local_path": "public/videos/motiondisco/simulation/sim_06-03-2026_11_15_31.mp4",
+      "skipped": true
+    },
+    {
+      "label": "MotionDisco",
+      "source_repo": "Atarilab/motiondisco.io",
+      "branch": "main",
+      "source_path": "static/videos/simulation/sim_06-03-2026_11_19_00.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/motiondisco.io/main/static/videos/simulation/sim_06-03-2026_11_19_00.mp4",
+      "local_path": "public/videos/motiondisco/simulation/sim_06-03-2026_11_19_00.mp4",
+      "skipped": true
+    },
+    {
+      "label": "MotionDisco",
+      "source_repo": "Atarilab/motiondisco.io",
+      "branch": "main",
+      "source_path": "static/videos/tasks/banana_1.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/motiondisco.io/main/static/videos/tasks/banana_1.mp4",
+      "local_path": "public/videos/motiondisco/tasks/banana_1.mp4",
+      "skipped": true
+    },
+    {
+      "label": "MotionDisco",
+      "source_repo": "Atarilab/motiondisco.io",
+      "branch": "main",
+      "source_path": "static/videos/tasks/banana_2.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/motiondisco.io/main/static/videos/tasks/banana_2.mp4",
+      "local_path": "public/videos/motiondisco/tasks/banana_2.mp4",
+      "skipped": true
+    },
+    {
+      "label": "MotionDisco",
+      "source_repo": "Atarilab/motiondisco.io",
+      "branch": "main",
+      "source_path": "static/videos/tasks/climb_place_high_table_1.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/motiondisco.io/main/static/videos/tasks/climb_place_high_table_1.mp4",
+      "local_path": "public/videos/motiondisco/tasks/climb_place_high_table_1.mp4",
+      "skipped": true
+    },
+    {
+      "label": "MotionDisco",
+      "source_repo": "Atarilab/motiondisco.io",
+      "branch": "main",
+      "source_path": "static/videos/tasks/climb_place_high_table_2.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/motiondisco.io/main/static/videos/tasks/climb_place_high_table_2.mp4",
+      "local_path": "public/videos/motiondisco/tasks/climb_place_high_table_2.mp4",
+      "skipped": true
+    },
+    {
+      "label": "MotionDisco",
+      "source_repo": "Atarilab/motiondisco.io",
+      "branch": "main",
+      "source_path": "static/videos/tasks/climb_up_down.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/motiondisco.io/main/static/videos/tasks/climb_up_down.mp4",
+      "local_path": "public/videos/motiondisco/tasks/climb_up_down.mp4",
+      "skipped": true
+    },
+    {
+      "label": "MotionDisco",
+      "source_repo": "Atarilab/motiondisco.io",
+      "branch": "main",
+      "source_path": "static/videos/tasks/climb_up_down2.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/motiondisco.io/main/static/videos/tasks/climb_up_down2.mp4",
+      "local_path": "public/videos/motiondisco/tasks/climb_up_down2.mp4",
+      "skipped": true
+    },
+    {
+      "label": "MotionDisco",
+      "source_repo": "Atarilab/motiondisco.io",
+      "branch": "main",
+      "source_path": "static/videos/tasks/climb_up_with_object_1.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/motiondisco.io/main/static/videos/tasks/climb_up_with_object_1.mp4",
+      "local_path": "public/videos/motiondisco/tasks/climb_up_with_object_1.mp4",
+      "skipped": true
+    },
+    {
+      "label": "MotionDisco",
+      "source_repo": "Atarilab/motiondisco.io",
+      "branch": "main",
+      "source_path": "static/videos/tasks/climb_up_with_object_2.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/motiondisco.io/main/static/videos/tasks/climb_up_with_object_2.mp4",
+      "local_path": "public/videos/motiondisco/tasks/climb_up_with_object_2.mp4",
+      "skipped": true
+    },
+    {
+      "label": "MotionDisco",
+      "source_repo": "Atarilab/motiondisco.io",
+      "branch": "main",
+      "source_path": "static/videos/tasks/long_dist_pick_place.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/motiondisco.io/main/static/videos/tasks/long_dist_pick_place.mp4",
+      "local_path": "public/videos/motiondisco/tasks/long_dist_pick_place.mp4",
+      "skipped": true
+    },
+    {
+      "label": "MotionDisco",
+      "source_repo": "Atarilab/motiondisco.io",
+      "branch": "main",
+      "source_path": "static/videos/tasks/move_through_clutter_1.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/motiondisco.io/main/static/videos/tasks/move_through_clutter_1.mp4",
+      "local_path": "public/videos/motiondisco/tasks/move_through_clutter_1.mp4",
+      "skipped": true
+    },
+    {
+      "label": "MotionDisco",
+      "source_repo": "Atarilab/motiondisco.io",
+      "branch": "main",
+      "source_path": "static/videos/tasks/move_through_clutter_2.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/motiondisco.io/main/static/videos/tasks/move_through_clutter_2.mp4",
+      "local_path": "public/videos/motiondisco/tasks/move_through_clutter_2.mp4",
+      "skipped": true
+    },
+    {
+      "label": "MotionDisco",
+      "source_repo": "Atarilab/motiondisco.io",
+      "branch": "main",
+      "source_path": "static/videos/tasks/under_table_pick_place.mp4",
+      "source_url": "https://raw.githubusercontent.com/Atarilab/motiondisco.io/main/static/videos/tasks/under_table_pick_place.mp4",
+      "local_path": "public/videos/motiondisco/tasks/under_table_pick_place.mp4",
+      "skipped": true
+    }
+  ],
+  "youtube": [
+    {
+      "label": "DynaRetarget supplementary",
+      "source_url": "https://www.youtube.com/watch?v=YlopoVulwi8",
+      "local_path": "public/videos/youtube/dynaretarget.mp4",
+      "skipped": false
+    },
+    {
+      "label": "MotionDisco supplementary",
+      "source_url": "https://youtu.be/DHiVz34QYlw",
+      "local_path": "public/videos/youtube/motiondisco.mp4",
+      "skipped": false
+    },
+    {
+      "label": "GDNB supplementary",
+      "source_url": "https://youtu.be/T7MUvMA67VM",
+      "local_path": "public/videos/youtube/gdnb.mp4",
+      "skipped": false
+    }
+  ]
+}

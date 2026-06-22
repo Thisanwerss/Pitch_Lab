@@ -1,0 +1,68 @@
+:root {
+  --tum-blue: #0065bd;
+  --tum-dark-blue: #003b6f;
+  --tum-light-blue: #64a0c8;
+  --tum-pale-blue: #eaf4ff;
+
+  --white-soft: #f8fbff;
+  --white-glass: rgba(255, 255, 255, 0.58);
+  --white-glass-strong: rgba(255, 255, 255, 0.78);
+
+  --ink: #07111f;
+  --muted: #5d6b7a;
+  --hairline: rgba(0, 101, 189, 0.14);
+
+  --accent-cyan: #26c6da;
+  --accent-orange: #ff8a3d;
+  --rare-red: #ff4d6d;
+
+  --shadow-soft: 0 26px 86px rgba(0, 45, 90, 0.1);
+  --shadow-glass: 0 18px 58px rgba(0, 45, 90, 0.1), inset 0 1px 0 rgba(255, 255, 255, 0.78);
+  --shadow-media: 0 34px 96px rgba(0, 55, 110, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.75);
+  --glow-blue: 0 0 92px rgba(0, 101, 189, 0.2);
+
+  --font-sans: "Inter", "Helvetica Neue", Arial, "Noto Sans SC", sans-serif;
+  --font-mono: "JetBrains Mono", "SFMono-Regular", "Noto Sans Mono CJK SC", monospace;
+
+  --safe-x: clamp(28px, 5vw, 88px);
+  --safe-y: clamp(28px, 5vh, 72px);
+  --grid-gap: clamp(18px, 2vw, 32px);
+
+  --hero-title-size: 42px;
+  --slide-title-size: 32px;
+  --body-size: 17px;
+  --emphasis-size: 23px;
+  --kicker-size: 12px;
+  --caption-size: 13px;
+}
+
+@media (min-width: 768px) {
+  :root {
+    --hero-title-size: 58px;
+    --slide-title-size: 42px;
+    --body-size: 19px;
+    --emphasis-size: 26px;
+    --kicker-size: 13px;
+    --caption-size: 14px;
+  }
+}
+
+@media (min-width: 1024px) {
+  :root {
+    --hero-title-size: 78px;
+    --slide-title-size: 54px;
+    --body-size: 22px;
+    --emphasis-size: 30px;
+  }
+}
+
+@media (min-width: 1440px) {
+  :root {
+    --hero-title-size: 92px;
+    --slide-title-size: 62px;
+    --body-size: 25px;
+    --emphasis-size: 34px;
+    --kicker-size: 14px;
+    --caption-size: 15px;
+  }
+}
